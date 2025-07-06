@@ -14,7 +14,7 @@
 #include <DHT_U.h>          // Unified DHT wrapper over Adafruit_Sensor
 
 /************** WiFi Network Credentials ****************/
-const char* ssid = "1123";              // <-- Replace with your WiFi SSID
+const char* ssid = "54687efrr";              // <-- Replace with your WiFi SSID
 const char* password = "AAABBBHHH";  // <-- Replace with your WiFi Password
 
 /************** MQTT Broker Settings *******************/
