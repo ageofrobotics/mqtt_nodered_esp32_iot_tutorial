@@ -15,10 +15,10 @@
 
 /************** WiFi Network Credentials ****************/
 const char* ssid = "1123";              // <-- Replace with your WiFi SSID
-const char* password = "KB123456789";  // <-- Replace with your WiFi Password
+const char* password = "AAABBBHHH";  // <-- Replace with your WiFi Password
 
 /************** MQTT Broker Settings *******************/
-const char* mqtt_server_ip = " 192.168.83.185"; // <-- Replace with your MQTT Broker IP
+const char* mqtt_server_ip = " 192.168.83.XXX"; // <-- Replace with your MQTT Broker IP
 const int mqtt_port = 1883;                     // Default MQTT port
 
 /************** MQTT Topics ***************************/
